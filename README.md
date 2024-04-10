@@ -53,7 +53,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Jayanth930/Expense-Tracker.git
+   git clone https://github.com/KambhampatiHemanth/Quiz_app.git
    ```
 2. Install NPM packages or `dependencies`
    ```sh
@@ -89,8 +89,8 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Jayanth kambhampati - `kambhampatijayanth24@gmail.com`
+Your Name - kambhampati Hemanth - `kambhampatihemanth@gmail.com`
 
-Project Repo Link Link: [(https://github.com/Jayanth930/Expense-Tracker.git)](https://github.com/Jayanth930/Expense-Tracker.git)
+Project Repo Link Link: [(https://github.com/KambhampatiHemanth/Quiz_app.git)](https://github.com/KambhampatiHemanth/Quiz_app.git)
 
 **U can View Live App Here** -  [Expense-Tracker](https://expense-tracker-w7fi.onrender.com)
