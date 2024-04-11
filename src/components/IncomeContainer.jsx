@@ -5,7 +5,7 @@ export default function IncomeContainer() {
   return (
     <div>
       <h4>Income</h4>
-      <p className='money plus'>${income.toFixed(2)}</p>
+      <p className='money plus'>₹{income.toFixed(2)}</p>
     </div>
   )
 }

@@ -9,7 +9,7 @@ export default function Container() {
     <div >
         <div>
             <h4>Your Balance</h4>
-            <h1>${(income + expense).toFixed(2)}</h1>
+            <h1>₹{(income + expense).toFixed(2)}</h1>
         </div>
     </div>
   )

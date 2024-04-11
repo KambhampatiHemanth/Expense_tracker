@@ -4,7 +4,7 @@ import './Header.css'
 const Header = () => {
     return (
         <div className="header">
-            <Link to="/"><img className="header__icon" src="Quiz_logo.png" alt="logo" /></Link>
+            <Link to="/"><img className="header__icon" src="image.png" alt="logo" /></Link>
             <nav role="navigation" class="primary-navigation">
             <ul>
                 <li><a href="#"><div className="wrapper">
@@ -14,7 +14,7 @@ const Header = () => {
                         <div className="three"></div>
                     </a>
                 </div></a>
-                <ul class="dropdown">
+                <ul class="dropdown"  style={{zIndex : "2"}} >
                     <li><a href="https://www.linkedin.com/in/kambhampati-hemanth/" target="_blank" rel="noopener noreferrer">Profile</a></li>
                     <li><a href="#">Contact Me</a></li>
                     <li><a href="#">Logout</a></li>

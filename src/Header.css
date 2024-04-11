@@ -1,6 +1,4 @@
 .header {
-    margin: 0 auto;
-    padding: .5rem 0;
     align-items: center;
     display: flex;
     justify-content:space-between;
@@ -193,7 +191,7 @@ h4 {
 }
 .btn_one {
   text-decoration: none;
-  color: white;
+  color: rgb(8, 8, 8);
   font-weight: 100;
   border: 1px #fbbc05 solid;
   padding: 1em 3em;
@@ -202,7 +200,7 @@ h4 {
 
 .nav div {
   height: 4px;
-  background-color: white;
+  background-color: rgb(8, 8, 8);
   margin: 5px 0;
   border-radius: 25px;
   transition: 0.3s;
@@ -285,7 +283,7 @@ padding-left: 0;
       clear: both;
       width: 100%;
       text-align: left;
-      margin-bottom: 20px;
+      margin-bottom: 10px;
       border-style: none;
     }
 
