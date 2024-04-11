@@ -7,7 +7,7 @@ const Header = () => {
         <div>
             <div className="header">
                 <Link to="/"><img className="header__icon" src="image.png" alt="logo" /></Link>
-                <h1>Expense Tracker</h1> {/* Insert the heading here */}
+                <h1>Expense Tracker</h1>
                 <nav role="navigation" className="primary-navigation">
                     <ul>
                         <li>
