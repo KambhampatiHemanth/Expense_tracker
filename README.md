@@ -50,10 +50,6 @@ This is an example of how to list things you need to use the software and how to
   ```
 
 ### Setup Locally
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/KambhampatiHemanth/Quiz_app.git
    ```
 2. Install NPM packages or `dependencies`
    ```sh
@@ -83,14 +79,3 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 **OfCourse I haven't created  any `Issuses` but Its to explain how a pull request can be made**
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - kambhampati Hemanth - `kambhampatihemanth@gmail.com`
-
-Project Repo Link Link: [(https://github.com/KambhampatiHemanth/Quiz_app.git)](https://github.com/KambhampatiHemanth/Quiz_app.git)
-
-**U can View Live App Here** -  [Expense-Tracker](https://expense-tracker-w7fi.onrender.com)
